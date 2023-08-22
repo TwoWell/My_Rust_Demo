@@ -1,2 +1,2 @@
 # My_Rust_Demo
-Rust
+My Rust Practice Demo
