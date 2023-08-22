@@ -1,0 +1,18 @@
+C:\Rust\Work_Place\scrape_url\target\debug\deps\html2md-21b0cb205b6b8bf1.rmeta: C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\lib.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\common.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\dummy.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\anchors.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\paragraphs.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\images.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\headers.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\lists.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\styles.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\codes.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\quotes.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\tables.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\containers.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\iframes.rs
+
+C:\Rust\Work_Place\scrape_url\target\debug\deps\html2md-21b0cb205b6b8bf1.d: C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\lib.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\common.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\dummy.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\anchors.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\paragraphs.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\images.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\headers.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\lists.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\styles.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\codes.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\quotes.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\tables.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\containers.rs C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\iframes.rs
+
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\lib.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\common.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\dummy.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\anchors.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\paragraphs.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\images.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\headers.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\lists.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\styles.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\codes.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\quotes.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\tables.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\containers.rs:
+C:\Rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\html2md-0.2.14\src\iframes.rs:
